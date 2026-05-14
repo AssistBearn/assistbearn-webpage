@@ -1,0 +1,1 @@
+console.log("Assist’béarn website loaded.");
