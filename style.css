@@ -5,8 +5,8 @@
 }
 
 .logo {
-  font-size: 4rem;
-  font-weight: 700;
+  font-size: 4rem !important;
+  font-weight: 700 !important;
   font-family: 'Allura', cursive;
   letter-spacing: 1px;
   text-align: center;
@@ -43,11 +43,6 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px 0;
-}
-
-.logo {
-  font-size: 1.5rem;
-  font-weight: bold;
 }
 
 nav {
