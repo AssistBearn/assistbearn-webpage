@@ -12,6 +12,12 @@
   text-align: center;
 }
 
+.logo-image {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+
 .assist {
   color: #1FA7A8; /*turquoise */
 }
@@ -136,6 +142,10 @@ nav a {
 .card ul {
   list-style: none;
   padding-left: 0;
+}
+
+header.scrolled {
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 
 @media (max-width: 768px) {
