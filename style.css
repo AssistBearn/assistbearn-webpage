@@ -149,6 +149,16 @@ header.scrolled {
   box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 }
 
+.contact-box p a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact-box p a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
 
   .nav {
